@@ -60,3 +60,7 @@ temp/
 # Backups
 *.bak
 *.backup
+
+# removed inadvertently-committed local session artifacts (PII containment)
+origin/transcript.md
+research/prompts.md
